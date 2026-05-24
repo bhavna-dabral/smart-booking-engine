@@ -39,7 +39,7 @@ An end-to-end web application architecture designed to help service-based local 
   <img src="https://github.com/user-attachments/assets/09578612-87b6-4085-89ca-490eb3b4b9e4" width="75%" alt="Secure Gateway Form" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin-bottom: 16px;"/>
   <img src="https://github.com/user-attachments/assets/58ceb0c5-6ba5-4b6a-accd-6104f0416bd7" width="75%" alt="Merchant Profile Creation" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin-bottom: 16px;"/>
   <img src="https://github.com/user-attachments/assets/bdb1639d-0a1a-4991-8602-f49d170ef00f" width="75%" alt="Admin Credentials Verification Gateway" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin-bottom: 16px;"/>
-  <img src="https://github.com/user-attachments/assets/432d27c0-4c19-48db-b605-1c0b6907ecbd" width="75%" alt="Booking Ticket Generation Confirmation" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
+
 </p>
 
 ---

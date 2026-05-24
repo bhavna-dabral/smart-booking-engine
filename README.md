@@ -9,37 +9,40 @@
 An end-to-end web application architecture designed to help service-based local merchants (Spas, Salons, and Wellness Centers) monetize unutilized off-peak hours through gamified real-time scarcity promos and flash booking slots.
 
 ---
----
 
 ## 🖥️ Application Previews & Core Interfaces
 
-### 🌌 1. Discovery Deck & Booking Portal
-*A clean marketplace interface allowing users to view promotions and instantly fill real-time reservation forms.*
+### 🌌 1. Discovery Deck & Consumer Portal
+*A high-yield marketplace interface allowing users to view real-time flash promotions, explore specific service categories, and instantly route to deep-linked reservation forms.*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da6faa15-97c2-4f32-85f7-c9ac66cf4100" width="70%" alt="Marketplace Interface" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
+  <img src="https://github.com/user-attachments/assets/ab0eb7dc-de3c-4809-ae14-87304c15e35e" width="75%" alt="Discovery Deck Interface" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin-bottom: 16px;"/>
+  <img src="https://github.com/user-attachments/assets/1216e27d-7601-46c8-802a-f7516ffbfdef" width="75%" alt="Filtered Results Deck" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin-bottom: 16px;"/>
+  <img src="https://github.com/user-attachments/assets/bd82ef01-0949-4b9e-b869-12463e2dafc7" width="75%" alt="Consumer Details View" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
 </p>
 
 ---
 
 ### 📊 2. Control Management Dashboard
-*Real-time analytical control layout for merchant administrators monitoring operational capacity pools and streaming transaction lines.*
+*Real-time analytical control layout for merchant administrators monitoring operational capacity pools, active booking voucher codes, overall conversion metrics, and live-streaming transaction logs pipelines.*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/368af42d-2e62-4354-88a5-0d8566ff6ce1" width="70%" alt="Admin Dashboard Interface" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
+  <img src="https://github.com/user-attachments/assets/368af42d-2e62-4354-88a5-0d8566ff6ce1" width="75%" alt="Admin Dashboard Interface" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
 </p>
 
 ---
 
-### 🎟️ 3. Booking Confirmation Gateway
-*Dynamic token rendering showcasing successful reservation allocations.*
+### 🎟️ 3. Booking Confirmation Gateway & Form Controls
+*Interactive transaction pipeline capturing precise client configurations alongside system execution screens mapping authenticated administration routers and operational registration forms.*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/863e304b-b1e2-4f2a-b76e-f26d900b23e5" width="70%" alt="Booking Confirmation Gateway" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
+  <img src="https://github.com/user-attachments/assets/09578612-87b6-4085-89ca-490eb3b4b9e4" width="75%" alt="Secure Gateway Form" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin-bottom: 16px;"/>
+  <img src="https://github.com/user-attachments/assets/58ceb0c5-6ba5-4b6a-accd-6104f0416bd7" width="75%" alt="Merchant Profile Creation" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin-bottom: 16px;"/>
+  <img src="https://github.com/user-attachments/assets/bdb1639d-0a1a-4991-8602-f49d170ef00f" width="75%" alt="Admin Credentials Verification Gateway" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4); margin-bottom: 16px;"/>
+  <img src="https://github.com/user-attachments/assets/432d27c0-4c19-48db-b605-1c0b6907ecbd" width="75%" alt="Booking Ticket Generation Confirmation" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
 </p>
 
-
-
+---
 
 ## 🛠️ Complete Technology Stack & System Architecture
 
@@ -62,4 +65,3 @@ An end-to-end web application architecture designed to help service-based local 
 1. **Race-Condition Isolation:** The system queries seat availability constraints instantly before booking tokens are verified, completely avoiding overbooking overlapping anomalies.
 2. **Dynamic Resiliency Mode:** When local database web connections are decoupled, the frontend client falls back instantly to client-side data simulations to guarantee uninterrupted demonstration continuity during live judge testing.
 3. **Regex Validator Pipeline:** Built-in validation filters check email integrity blocks and 10-digit Indian mobile sequence parameters directly on the client layer to protect database processing pipelines.
-

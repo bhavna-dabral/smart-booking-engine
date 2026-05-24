@@ -9,27 +9,34 @@
 An end-to-end web application architecture designed to help service-based local merchants (Spas, Salons, and Wellness Centers) monetize unutilized off-peak hours through gamified real-time scarcity promos and flash booking slots.
 
 ---
+---
 
 ## 🖥️ Application Previews & Core Interfaces
 
-### 🌌 1. Discovery Deck & Consumer Portal
-*A beautiful, high-yield marketplace interface allowing users to filter live promotions by merchant classification and instantly route to real-time reservation forms.*
+### 🌌 1. Discovery Deck & Booking Portal
+*A clean marketplace interface allowing users to view promotions and instantly fill real-time reservation forms.*
 
-<img width="1920" height="930" alt="Screenshot (843)" src="https://github.com/user-attachments/assets/da6faa15-97c2-4f32-85f7-c9ac66cf4100" />
-<img width="1920" height="937" alt="Screenshot (844)" src="https://github.com/user-attachments/assets/368af42d-2e62-4354-88a5-0d8566ff6ce1" />
-<img width="1875" height="919" alt="Screenshot (851)" src="https://github.com/user-attachments/assets/863e304b-b1e2-4f2a-b76e-f26d900b23e5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da6faa15-97c2-4f32-85f7-c9ac66cf4100" width="70%" alt="Marketplace Interface" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
+</p>
 
+---
 
+### 📊 2. Control Management Dashboard
+*Real-time analytical control layout for merchant administrators monitoring operational capacity pools and streaming transaction lines.*
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/368af42d-2e62-4354-88a5-0d8566ff6ce1" width="70%" alt="Admin Dashboard Interface" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
+</p>
 
+---
 
+### 🎟️ 3. Booking Confirmation Gateway
+*Dynamic token rendering showcasing successful reservation allocations.*
 
-### 📊 2. Merchant Operations & Control Dashboard
-*Real-time analytical control layout for merchant administrators monitoring operational capacity pools, active booking voucher codes, conversion metrics, and streaming transaction pipes.*
-<img width="1907" height="919" alt="Screenshot (845)" src="https://github.com/user-attachments/assets/f37837d9-c2f2-4e92-b037-7317f24d8cfe" />
-<img width="1883" height="938" alt="Screenshot (847)" src="https://github.com/user-attachments/assets/3755a4c3-9b07-47a8-8e99-4f33c436105b" />
-<img width="1920" height="925" alt="Screenshot (848)" src="https://github.com/user-attachments/assets/61a1929a-ec33-4d05-8842-bde3e82bad70" />
-<img width="1904" height="944" alt="Screenshot (849)" src="https://github.com/user-attachments/assets/bdbf246d-889d-4c0d-af81-ae92b3ea8fd1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/863e304b-b1e2-4f2a-b76e-f26d900b23e5" width="70%" alt="Booking Confirmation Gateway" style="border-radius: 10px; border: 1px solid #223047; box-shadow: 0 8px 24px rgba(0,0,0,0.4);"/>
+</p>
 
 
 
